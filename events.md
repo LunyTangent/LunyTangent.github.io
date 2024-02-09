@@ -43,6 +43,6 @@ The Biggest Troll is more than just traps or player kills. You gotta be creative
 # How To Join
 ---
 The server is publicly available in-game listed as "Leviathan The 2nd" which you can filter for in the search screen after choosing "Join Game" on the main menu.
-[![You should know how to so this by now right?](https://github.com/LunyTangent/LunyTangent.github.io/blob/main/2024eventscreen.jpg?raw=true)
+![You should know how to so this by now right?](https://github.com/LunyTangent/LunyTangent.github.io/blob/main/2024eventscreen.jpg?raw=true)
 
 The password will be made available on the Discord when the server launches, but you do not need to be a member of the Discord to join, you just have to know somebody that is, so you can get the password from them.
