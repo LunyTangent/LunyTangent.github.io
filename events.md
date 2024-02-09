@@ -3,7 +3,7 @@
 ## Basic Info
 A custom 7 Days to Die server? Again? Yes. We've got some good additions this year, I promise. This server run in the current stable build of the game.
 
-This time around we are encouraging players to branch out a bit with a leader board system! At the end of the event, players with the highest counts or most votes in cases of subjectivity will be earn a place for their username on the LunyTangent leader board site (coming soon) Reminder for myself to add a categories section.
+This time around we are encouraging players to branch out a bit with a leader board system! At the end of the event, players with the highest counts or most votes in cases of subjectivity will be earn a place for their username on the LunyTangent leader board site (coming soon)
 
 February 27th at 10pm is the Event Night, where anyone and everyone is invited to hop in, merc zombies and each other! PvP is encouraged. To facilitate schedules for different players, and to allow anyone that cannot participate in the Main Event night a chance to place on the leader board, the server will run for a week from February 20th to the night of the 27th.
 
@@ -28,10 +28,10 @@ A bundle of starter items, obviously. I modified the bundle a bit so the things 
 This one is just because of personal bias. Extends rows of the bag to 10 rather than 9.
 Higher stack quantities! You still drop everything in your bag when you die though, so be careful.
 
-
 ### Custom Changes
 Traders deal exclusively in 9mm ammo now. No more Dukes.
 Most items are sold at any Trader tier now. You might get a really powerful gun or something on day 1 ;D
+There are a couple of things that reduce visablilty as well. Something to look out for.
 
 ## How to qualify for the leader boards
 To qualify for the basic stuff (zombie kills, player kills, deaths, etc.) screenshots of the result screen can be submitted to the Discord, but you must be online with someone from the Discord when the screenshot is taken to be considered valid.
