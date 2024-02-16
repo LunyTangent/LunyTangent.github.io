@@ -5,7 +5,7 @@ A custom 7 Days to Die server? Again? Yes. We've got some good additions this ye
 
 This time around we are encouraging players to branch out a bit with a leader board system! At the end of the event, players with the highest counts or most votes in cases of subjectivity will be able to earn a place for their username on the LunyTangent leader board site (coming soon)
 
-February 27th at 10pm is the Event Night, where anyone and everyone is invited to hop in, merc some zombies and each other! PvP is encouraged. To facilitate schedules for different players, and to allow anyone that cannot participate in the Main Event night a chance to place on the leader board, the server will run for a week from February 20th to the night of the 27th until everyone logs off.
+February 27th at 10pm is the Event Night, where anyone and everyone is invited to hop in, merc some zombies and each other! PvP is encouraged. To facilitate schedules for different players, and to allow anyone that cannot participate in the Main Event night a chance to place on the leader board, the server will run for a week from February 20th to the night of the 27th until everyone logs off. The map is 50% Wasteland, 50% Snow. Built with the [Big City](https://7daystodiemods.com/big-city-rwg) mod, there many traders, and a good amout of places to raid.
 
 ## What's New
 Mods. We've added several. All are server only, so no need to download anything. Just jump right in!
@@ -36,7 +36,7 @@ Traders deal exclusively in 9mm ammo now. No more Dukes.
 
 Most items are sold at any Trader tier now. You might get a really powerful gun or something on day 1 for example.
 
-Traders are also open 24/7! This is done primarily because days are now only 30 real world minutes in length, every other night is a horde night, and to give a bastion to players who might need a place to stay for a night. Beware though, this doesn't stop the teleportation effect if you aren't already inside the base when night falls. Meaning that you leave the fenced area for any reason during a horde, you'll be completely exposed. 
+Traders are also open 24/7! This is done primarily because days are now only 30 real world minutes in length and every other night is a horde night. So traders stay open to give a bastion to players who might need a place to stay for a night. Beware though, this doesn't stop the teleportation effect if you aren't already inside the base when night falls. Meaning that if you leave the fenced area for any reason during a horde, you'll be completely exposed. 
 
 There are a couple of things that reduce visablilty as well. Something to look out for.
 
