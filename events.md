@@ -3,7 +3,7 @@
 ## Basic Info
 A custom 7 Days to Die server? Again? Yes. We've got some good additions this year, I promise. This server run in the current stable build of the game.
 
-This time around we are encouraging players to branch out a bit with a leader board system! At the end of the event, players with the highest counts or most votes in cases of subjectivity will be able to earn a place for their username on the LunyTangent leader board site (coming soon)
+This time around we are encouraging players to branch out a bit with an optional leader board system! At the end of the event, players with the highest counts or most votes in cases of subjectivity will be able to earn a place for their username on the LunyTangent leader board site (coming soon)
 
 February 27th at 10pm is the Event Night, where anyone and everyone is invited to hop in, merc some zombies and each other! PvP is encouraged. To facilitate schedules for different players, and to allow anyone that cannot participate in the Main Event night a chance to place on the leader board, the server will run for a week from February 20th to the night of the 27th until everyone logs off. The map is 50% Wasteland, 50% Snow. Built with the [Big City](https://7daystodiemods.com/big-city-rwg) mod, there many traders, and a good amout of places to raid.
 
